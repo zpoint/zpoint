@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 💬  Share anything I've learned 
   - [CPython-Internals](https://github.com/zpoint/CPython-Internals)
   - [Redis-Internals](https://github.com/zpoint/Redis-Internals)
+  - [gist](https://gist.github.com/zpoint)
  - 👯 Open source project
  
