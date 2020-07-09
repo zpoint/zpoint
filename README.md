@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   - [gist](https://gist.github.com/zpoint)
  - 👯 Open source project
  
-![image title](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)(https://rushter.com/blog/github-profile-markdown/)
+[![Hi there](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)](https://rushter.com/blog/github-profile-markdown/)
