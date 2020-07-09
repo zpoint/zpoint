@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently working on [go-Internals](https://github.com/zpoint/go-Internals) off the work time
+- 🤔  Years of experiences working with Python/C/C++
+- 💬  Share anything I've learned 
+  - [CPython-Internals](https://github.com/zpoint/CPython-Internals)
+  - [Redis-Internals](https://github.com/zpoint/Redis-Internals)
+ - 👯 Open source project
+ 
