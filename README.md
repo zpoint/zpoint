@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![Hi there](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)](https://rushter.com/blog/github-profile-markdown/)
 
 <!--
 **zpoint/zpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
   - [gist](https://gist.github.com/zpoint)
  - 👯 Open source project
  
-[![Hi there](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)](https://rushter.com/blog/github-profile-markdown/)
+ [![zpoint's github stats](https://github-readme-stats.vercel.app/api?username=zpoint)](https://github.com/zpoint)
+ 
