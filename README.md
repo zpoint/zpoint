@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 I’m currently reading [<<程序员的自我修养：链接、装载与库>>](https://item.jd.com/10067200.html#crumb-wrap)
+- I’m currently working on [go-Internals](https://github.com/zpoint/go-Internals) off the work time
 -->
 
-- 🌱 I’m currently working on [go-Internals](https://github.com/zpoint/go-Internals) off the work time
+- 🌱 I’m currently reading [GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) and learning [reactjs](https://reactjs.org/) off the work time
 - 🤔  Years of experiences working with Python/C/C++
 - 💬  Share anything I've learned 
   - [CPython-Internals](https://github.com/zpoint/CPython-Internals)
