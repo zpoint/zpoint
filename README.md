@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - [Redis-Internals](https://github.com/zpoint/Redis-Internals)
   - [gist](https://gist.github.com/zpoint)
  - 👯 Open source project
+ - With 3+ years development working experience
  
  [![zpoint's github stats](https://github-readme-stats.vercel.app/api?username=zpoint)](https://github.com/zpoint)
  
