@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently reading [<<程序员的自我修养：链接、装载与库>>](https://item.jd.com/10067200.html#crumb-wrap)
 - I’m currently working on [go-Internals](https://github.com/zpoint/go-Internals) off the work time
+- 👯 Open source project
 -->
 
 - 🌱 I’m currently reading [GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) and learning [reactjs](https://reactjs.org/) off the work time
@@ -23,7 +24,6 @@ Here are some ideas to get you started:
   - [CPython-Internals](https://github.com/zpoint/CPython-Internals)
   - [Redis-Internals](https://github.com/zpoint/Redis-Internals)
   - [gist](https://gist.github.com/zpoint)
- - 👯 Open source project
  - 😄 With 3+ years development working experience
  
  [![zpoint's github stats](https://github-readme-stats.vercel.app/api?username=zpoint)](https://github.com/zpoint)
