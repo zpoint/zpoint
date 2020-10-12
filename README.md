@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 Open source project
 -->
 
-- 🌱 I’m currently reading [GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) and learning [reactjs](https://reactjs.org/) off the work time
+- 🌱 I’m currently reading [GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) off the work time
 - 🤔  Years of experiences working with Python/C/C++
 - 💬  Share anything I've learned 
   - [CPython-Internals](https://github.com/zpoint/CPython-Internals)
