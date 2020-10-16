@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - [CPython-Internals](https://github.com/zpoint/CPython-Internals)
   - [Redis-Internals](https://github.com/zpoint/Redis-Internals)
   - [gist](https://gist.github.com/zpoint)
+  - [Blog](https://github.com/zpoint/Blog)
  - 😄 With 3+ years development working experience
  
  [![zpoint's github stats](https://github-readme-stats.vercel.app/api?username=zpoint)](https://github.com/zpoint)
