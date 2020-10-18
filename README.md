@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   - [gist](https://gist.github.com/zpoint)
   - [Blog](https://github.com/zpoint/Blog)
 - Recently reading list
-  - ~~[\<\<GoExpertProgramming\>\>(2020-09)](https://github.com/RainbowMango/GoExpertProgramming)~~
-  - ~~[\<\<程序员的自我修养：链接、装载与库\>\>(2020-08)](https://item.jd.com/10067200.html#crumb-wrap)~~
+  - ~~[\<\<GoExpertProgramming\>\>(2020-10)](https://github.com/RainbowMango/GoExpertProgramming)~~
+  - ~~[\<\<程序员的自我修养：链接、装载与库\>\>(2020-09)](https://item.jd.com/10067200.html#crumb-wrap)~~
  
  [![zpoint's github stats](https://github-readme-stats.vercel.app/api?username=zpoint)](https://github.com/zpoint)
  
