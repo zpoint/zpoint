@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on [Go-Internals](https://github.com/zpoint/Go-Internals) off the work time
 - 🤔  With 3+ years development working experience of experiences working with Python/C/C++
-- ⚡ Less than one year with Go
+- ⚡ Less than one year working with Go
 <!-- - ⚡ Bachelor degree major in Chemistry, self learning CS in University -->
 
 - 💬  Share anything I've learned 
