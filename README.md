@@ -14,18 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 I’m currently reading [<<程序员的自我修养：链接、装载与库>>](https://item.jd.com/10067200.html#crumb-wrap)
-- I’m currently working on [go-Internals](https://github.com/zpoint/go-Internals) off the work time
+- I’m currently working on [Go-Internals](https://github.com/zpoint/Go-Internals) off the work time
 - 👯 Open source project
 -->
 
-- 🌱 I’m currently reading [GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) off the work time
-- 🤔  Years of experiences working with Python/C/C++
+- 🌱 I’m currently working on [Go-Internals](https://github.com/zpoint/Go-Internals) off the work time
+- 🤔  With 3+ years development working experience of experiences working with Python/C/C++
+- ⚡ Less than one year with Go
+<!-- - ⚡ Bachelor degree major in Chemistry, self learning CS in University -->
+
 - 💬  Share anything I've learned 
   - [CPython-Internals](https://github.com/zpoint/CPython-Internals)
   - [Redis-Internals](https://github.com/zpoint/Redis-Internals)
   - [gist](https://gist.github.com/zpoint)
   - [Blog](https://github.com/zpoint/Blog)
- - 😄 With 3+ years development working experience
+- Recently reading list
+  - ~~[\<\<GoExpertProgramming\>\>(2020-09)](https://github.com/RainbowMango/GoExpertProgramming)~~
+  - ~~[\<\<程序员的自我修养：链接、装载与库\>\>(2020-08)](https://item.jd.com/10067200.html#crumb-wrap)~~
  
  [![zpoint's github stats](https://github-readme-stats.vercel.app/api?username=zpoint)](https://github.com/zpoint)
  
