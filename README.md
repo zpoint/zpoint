@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   - [gist](https://gist.github.com/zpoint)
   - [Blog](https://github.com/zpoint/Blog)
 - Recently reading list
+  - [\<\<汇编语言(王爽)\>\>(2020-11)](https://item.jd.com/12841436.html#crumb-wrap)~~
   - ~~[\<\<GoExpertProgramming\>\>(2020-10)](https://item.jd.com/12920392.html)~~
   - ~~[\<\<程序员的自我修养：链接、装载与库\>\>(2020-09)](https://item.jd.com/10067200.html#crumb-wrap)~~
  
