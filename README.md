@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m a backend developer at Tencent
+- 🌱 Back End Engineer at Tencent
 - 🤔  With 4+ years development working experience with Python/C/C++, 1+ years working with Go
 - ⚡ Bachelor degree major in Chemistry, self learning CS in University 
 <!-- - ⚡ Bachelor degree major in Chemistry, self learning CS in University -->
