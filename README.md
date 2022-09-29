@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 - Recently reading list
 
+  - [\<\<Designing Data-Intensive Applications\>\>(2022-09)](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
   - ~~[\<\<Go语言设计与实现\>\>(2021-12)](https://item.jd.com/13521160.html)~~
   - ~~[\<\<Understanding the Linux Kernel\>\>(2021-01)](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)~~
   - ~~[\<\<汇编语言(王爽)\>\>(2020-11)](https://item.jd.com/12841436.html)~~
