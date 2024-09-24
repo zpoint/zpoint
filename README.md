@@ -1,5 +1,4 @@
-### Hi there 👋 [![Hi there](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)](https://rushter.com/blog/github-profile-markdown/)
-
+### Hi there 👋 
 <!--
 **zpoint/zpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 💼  I am a Back End Engineer
-- 🤔  With 4+ years development working experience with Python/C/C++, 1+ years working with Go
-- ⚡ Bachelor degree major in Chemistry, self learning CS in University 
+- 💼  I am a BackEnd Engineer
+- 🤔  With 7+ years development working experience with Python/C/C++/Go
+- ⚡ Bachelor’s degree majoring in Chemistry, self-learning CS at university.
 
 <!-- - ⚡ Bachelor degree major in Chemistry, self learning CS in University -->
 - 💬  Share anything I've learned 
@@ -33,6 +32,7 @@ Here are some ideas to get you started:
 
 - Recently reading list
 
+  - ~~[Neural Networks / Deep Learning(2024-09)]([https://item.jd.com/13521160.html](https://www.youtube.com/watch?v=zxagGtF9MeU&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1))~~
   - ~~[\<\<Go语言设计与实现\>\>(2021-12)](https://item.jd.com/13521160.html)~~
   - ~~[\<\<Understanding the Linux Kernel\>\>(2021-01)](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)~~
   - ~~[\<\<汇编语言(王爽)\>\>(2020-11)](https://item.jd.com/12841436.html)~~
