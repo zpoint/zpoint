@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💼  I am a BackEnd Engineer
 - 🤔  With 7+ years development working experience with Python/C/C++/Go
-- ⚡ Bachelor’s degree majoring in Chemistry, self-learning CS at university.
+- ⚡ Bachelor’s degree majoring in Chemistry, self-learning CS at university
 
 <!-- - ⚡ Bachelor degree major in Chemistry, self learning CS in University -->
 - 💬  Share anything I've learned 
